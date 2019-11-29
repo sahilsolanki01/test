@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394547831907",
+    "firebase_url": "https://test-ba488.firebaseio.com",
+    "project_id": "test-ba488",
+    "storage_bucket": "test-ba488.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394547831907:android:311bb6542ea10a624dc456",
+        "android_client_info": {
+          "package_name": "com.solanki.sahil.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394547831907-c5vd56h7plv9pl7e3i95j01l55m1qb8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA073hm_uUIR-7mXF6Sph4uQ37s_LmD-_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394547831907-c5vd56h7plv9pl7e3i95j01l55m1qb8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
